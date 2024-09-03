@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <rect width="100%" height="100%" fill="blue"/>
+   <polygon points="163.833 143.15698 227.276 94.220 328.708 85.707 402.069 117.838 456.327 166.086 429.466 215.335 402.732 236.962 315.031 266.134 247.324 310.713 179.711 284.553 131.147 234.617" fill="green"/>
+   <polygon points="699.530 424.886 726.716 395.545 724.013 349.439 739.621 290.799 762.383 213.272 868.226 199.543 949.990 261.927 964.009 336.969 907.694 383.161 877.952 423.541 882.579 462.042 922.037 518.542 997.867 666.190 966.976 728.859 886.939 759.627 778.379 750.208 698.037 691.703 595.356 675.228 444.996 601.269 407.126 488.895 435.970 392.844 515.788 350.690 568.191 362.203 607.098 442.154 660.469 444.476" fill="green"/>
+   <polygon points="1453.995 424.994 1518.616 392.680 1564.713 321.064 1619.599 268.880 1714.033 277.444 1743.270 342.147 1764.564 442.337 1778.583 517.379 1722.268 563.571 1602.468 601.581 1594.811 629.759 1614.056 646.021 1716.527 656.145 1748.722 677.401 1761.756 717.284 1731.412 784.689 1683.387 922.593 1597.825 1004.891 1491.612 987.535 1397.578 930.070 1336.183 868.488 1314.478 784.550 1334.701 650.638 1306.821 568.436 1330.362 531.099 1380.685 494.550 1425.221 477.215" fill="green"/>
+   <polygon points="1123.371 93.606 1214.665 77.069 1316.097 68.556 1389.458 100.687 1469.148 168.297 1455.943 252.891 1415.942 314.228 1313.499 347.689 1203.694 326.777 1128.792 270.384 1098.189 182.010" fill="green"/>
+   <polygon points="226.934 683.167 301.811 711.174 352.565 795.217 465.289 840.558 635.452 867.260 661.115 899.936 651.344 949.507 563.775 950.085 430.239 971.823 306.457 946.032 197.021 883.273 157.147 782.390" fill="green"/>
+
+  <rect height="15" width="15" y="143" x="230" fill="red"/>
+  <rect height="15" width="15" y="252" x="322" fill="red"/>
+  <rect height="15" width="15" y="692" x="260" fill="red"/>
+  <rect height="15" width="15" y="831" x="284" fill="red"/>
+  <rect height="15" width="15" y="908" x="450" fill="red"/>
+  <rect height="15" width="15" y="371" x="459" fill="red"/>
+  <rect height="15" width="15" y="505" x="502" fill="red"/>
+  <rect height="15" width="15" y="560" x="586" fill="red"/>
+  <rect height="15" width="15" y="544" x="743" fill="red"/>
+  <rect height="15" width="15" y="315" x="818" fill="red"/>
+  <rect height="15" width="15" y="354" x="927" fill="red"/>
+  <rect height="15" width="15" y="685" x="977" fill="red"/>
+  <rect height="15" width="15" y="168" x="1191" fill="red"/>
+  <rect height="15" width="15" y="186" x="1368" fill="red"/>
+  <rect height="15" width="15" y="329" x="1256" fill="red"/>
+  <rect height="15" width="15" y="370" x="1522" fill="red"/>
+  <rect height="15" width="15" y="405" x="1694" fill="red"/>
+  <rect height="15" width="15" y="609" x="1591" fill="red"/>
+  <rect height="15" width="15" y="686" x="1321" fill="red"/>
+  <rect height="15" width="15" y="740" x="1494" fill="red"/>
+  <rect height="15" width="15" y="873" x="1579" fill="red"/>
+
+  <text y="137" x="195">Kryształowiec</text>
+  <text y="160" x="1154">Martwe Ogrody</text>
+  <text y="241" x="284">Złoty Horyzont</text>
+  <text y="363" x="403">Słoneczna Przystań</text>
+  <text y="681" x="209">Burzowe Wybrzeże</text>
+  <text y="822" x="250">Żelazna Oaza</text>
+  <text y="899" x="399">Granitowe Wzgórza</text>
+  <text y="498" x="478">Srebrzysko</text>
+  <text y="535" x="693">Księżycowe Miasto</text>
+  <text y="671" x="957">Pustelnia</text>
+  <text y="306" x="790">Prześwitnia</text>
+  <text y="348" x="887">Wodny Kamień</text>
+  <text y="177" x="1321">Czarne Mokradła</text>
+  <text y="317" x="1213">Smoczy Kraniec</text>
+  <text y="361" x="1491">Mglisty Port</text>
+  <text y="397" x="1634">Złote Wrzosowiska</text>
+  <text y="599" x="1553">Zatoka Nadziei</text>
+  <text y="679" x="1284">Morska Ostoja</text>
+  <text y="731" x="1439">Diamentowa Wieża</text>
+  <text y="864" x="1549">Różany Las</text>
+  <text y="552" x="537">Kamienna Brama</text>
+
+  <circle  r="5" cy="144.91013" cx="298.3793" fill="black"/>
+  <circle  r="5" cy="730.91013" cx="1283.3793" fill="cyan"/>
+  <circle  r="5" cy="957.91013" cx="1683.3793" fill="cyan"/>
+  <circle  r="5" cy="693.91013" cx="332.3793" fill="cyan"/>
+  <circle  r="5" cy="936.91013" cx="491.3793" fill="none"/>
+  <circle  r="5" cy="448.91013" cx="1720.3793" fill="brown"/>
+  <circle  r="5" cy="716.91013" cx="237.3793" fill="black"/>
+  <circle  r="5" cy="887.91013" cx="1633.3793" fill="brown"/>
+  <circle  r="5" cy="937.91013" cx="478.3793" fill="black"/>
+  <circle  r="5" cy="598.91013" cx="629.3793" fill="black"/>
+  <circle  r="5" cy="636.91013" cx="1561.3793" fill="green"/>
+  <circle  r="5" cy="644.91013" cx="748.3793" fill="brown"/>
+  <circle  r="5" cy="97.91013" cx="175.3793" fill="cyan"/>
+  <circle  r="5" cy="378.91013" cx="1483.3793" fill="cyan"/>
+  <circle  r="5" cy="195.91013" cx="1267.3793" fill="black"/>
+  <circle  r="5" cy="122.91013" cx="1178.3793" fill="brown"/>
+  <circle  r="5" cy="370.91013" cx="1241.3793" fill="cyan"/>
+</svg>

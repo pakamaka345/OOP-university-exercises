@@ -1,0 +1,14 @@
+<html>
+<body>
+<form method="post" th:action="@{/imageform/upload}" enctype="multipart/form-data">
+    <div class="form-group">
+        <input type="file" name="image" accept="image/*" class="form-control-file">
+    </div>
+    <div class="form-group">
+        <label for="brightness">Brightness:</label>
+        <input type="number" id="brightness" name="brightness" min="0" max="254">
+    </div>
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form>
+</body>
+</html>
